@@ -3,7 +3,7 @@ import { Sprout } from 'lucide-react';
 import WeatherMap from './components/WeatherMap';
 import WeatherConditions from './components/WeatherConditions';
 import WeatherAlerts from './components/WeatherAlerts';
-import CropSelector from './components/CropSelector';
+import { CropSelector } from './components/CropSelector';
 import FarmDetails, { FarmDetails as FarmDetailsType } from './components/FarmDetails';
 import SoilAnalysis, { SoilAnalysis as SoilAnalysisType } from './components/SoilAnalysis';
 import CropPrediction from './components/CropPrediction';
